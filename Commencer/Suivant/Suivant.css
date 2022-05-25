@@ -1,0 +1,218 @@
+html {
+  box-sizing: border-box;
+  
+}
+body {
+  font-size: 14px;
+}
+.v104_33 /*ecran entier*/{
+  width: 150%;
+  height: 150%;
+  background: rgba(5,7,6,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v104_35 /*background 1*/{
+  width: 100%;
+  height: 100%;
+  background: rgba(12,25,16,0.699999988079071);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v104_43 /*Titre*/{
+  width: 517px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 15px;
+  left: -40px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v104_43 a{
+  text-decoration: none;
+  color: #437850;
+  border-bottom: 3px solid #FFFF;
+}
+
+.v104_45 /*Galerie*/{
+  width: 549px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 40px;
+  left: 760px;
+  font-family: IBM Plex Mono;
+  font-weight: Lighter;
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+.v104_45 a{
+  text-decoration: none;
+  color: #FFFF;
+  border-bottom: 1px solid #FFFF;    
+}
+
+.v104_46 /*Comment*/{
+  width: 549px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 40px;
+  left: 870px;
+  font-family: IBM Plex Mono;
+  font-weight: Lighter;
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+.v104_46 a{
+  text-decoration: none;
+  color: #FFFF;
+  border-bottom: 1px solid #FFFF;    
+}
+
+.v104_48 /*Qui*/{
+  text-decoration: none;
+  width: 549px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 40px;
+  left: 1100px;
+  font-family: IBM Plex Mono;
+  font-weight: Lighter;
+  font-size: 13px;
+  opacity: 0.5;
+}
+
+.v104_48 a{
+  text-decoration: none;
+  color: #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.v104_52 /*image 4*/{
+  width: 120px;
+  height: 120px;
+  background: url("../../Image/4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  opacity: 1;
+  position: absolute;
+  top: 90px;
+  left: 20px;
+  overflow: hidden;
+}
+
+.v104_53 /*image 5*/{
+  width: 150px;
+  height: 150px;
+  background: url("../../Image/5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 1100px;
+  overflow: hidden;
+}
+.v104_54 /*Rectanglearr*/{
+  position: absolute;
+  width: 1000px;
+  height: 600px;
+  top: 130px;
+  left: 140px;
+  background: #FFFFFF;
+  border-radius: 50px;
+}
+
+.v104_55 /*texte*/{
+  width: 800px;
+  height: 63px;
+  position: absolute;
+  top: 155px;
+  left: 240px;
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 120%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+
+.v104_56 /*Fond bouton suivant*/{
+  width: 200px;
+  height: 50px;
+  background: rgba(14,121,77,1);
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  left: 900px;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 90px;
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius: 90px;
+  overflow: hidden;
+}
+
+.v104_57 /*Suivant*/{
+  width: 142px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 660px;
+  left: 928px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v104_57 a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.v104_58 /*Forme 1*/{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 280px;
+  left: 270px;
+  background: url("../../Image/6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+}
+
+.v104_59 /*Forme 2*/{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 280px;
+  left: 700px;
+  background: url("../../Image/7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+}
+
